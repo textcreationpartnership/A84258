@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceding ioyfull newes from the Earle of Warwicke wherein is declared his resolution, concerning the Kings Majesties desires, to have the Navy resigned to him, likewise the Parliaments determination, concerning the same. Also, a true relation of proceedings from Yorke and Beverly-  shewing, the great power and strength there raysed, against the Parliament and Hul, under the command of the Lord Carnarvon, Lord Rich, Captaine Butler, Colonell Fielding, Colonell Lunsford, likewise, the bounty of the clergy, and of the gentry in Yorksheire, tending to the encreasing and managing of, these unhappy proceedings Iohn, Brow. Cler. Parl.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84258</idno>
+            <idno type="STC">Wing E3763</idno>
+            <idno type="STC">Thomason E108_37</idno>
+            <idno type="STC">ESTC R18837</idno>
+            <idno type="EEBO-CITATION">99860475</idno>
+            <idno type="PROQUEST">99860475</idno>
+            <idno type="VID">112595</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112595)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E108[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceding ioyfull newes from the Earle of Warwicke wherein is declared his resolution, concerning the Kings Majesties desires, to have the Navy resigned to him, likewise the Parliaments determination, concerning the same. Also, a true relation of proceedings from Yorke and Beverly-  shewing, the great power and strength there raysed, against the Parliament and Hul, under the command of the Lord Carnarvon, Lord Rich, Captaine Butler, Colonell Fielding, Colonell Lunsford, likewise, the bounty of the clergy, and of the gentry in Yorksheire, tending to the encreasing and managing of, these unhappy proceedings Iohn, Brow. Cler. Parl.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>August. 3. Printed for Thomas Baley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Enclosed in brackets: "Lord Carnarvon, ..Colonell Lunsford,".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Butler, --  Capt.</term>
+               <term>Carnarvon, Robert Dormer, --  Earl of, 1609 or 10-1643.</term>
+               <term>Fielding, Richard, d. 1650.</term>
+               <term>Lunsford, Thomas, --  Sir, 1610?-1653?</term>
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658.</term>
+               <term>Beverley (Humberside) --  History, Military --  Early works to 1800.</term>
+               <term>York (England) --  History, Military --  Early works to 1800.</term>
+               <term>Yorkshire (England) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112595:1"/>
+            <pb facs="tcp:112595:1" rendition="simple:additions"/>
+            <p>EXCEDING Ioyfull Newes <hi>FROM THE EARLE OF</hi> WARWICKE Wherein is declared his Reſolution, concerning the Kings Majeſties deſires, to have the Navy reſigned to him, Likewiſe the Parliaments determina<g ref="char:EOLhyphen"/>tion, concerning the ſame.</p>
+            <p>ALSO, A TRVE RELATION Of the proceedings from <hi>Yorke</hi> and <hi>Beverly</hi> Shewing, The great power and ſtrength there rayſed, againſt the Parliament and Hul, under the Command of
+<list>
+                  <item>The Lord of <hi>Carnarvon,</hi>
+                  </item>
+                  <item>The Lord <hi>Rich,</hi>
+                  </item>
+                  <item>Captaine <hi>Butler,</hi>
+                  </item>
+                  <item>Colonell <hi>Fielding,</hi>
+                  </item>
+                  <item>Colonell <hi>Runſford,</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Likewiſe, The bounty of the Clergy, and of the Gentry in Yorkſheire, tending to the encreaſing and manag<g ref="char:EOLhyphen"/>ing of, theſe unhappy Proceedings</p>
+            <p>Iohn, Brow. Cler. Parl.</p>
+            <p>
+               <hi>Auguſt.</hi> 3. Printed for <hi>Thomas Baley.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <pb facs="tcp:112595:2"/>
+            <pb n="3" facs="tcp:112595:2"/>
+            <head>Exceeding Joyfull NEVVES FROM the EARLE of <hi>Warwicke.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>ANY have beene the di<g ref="char:EOLhyphen"/>ſtaactions of this King<g ref="char:EOLhyphen"/>dom, which overſpreade this Iſland by reaſon of his Majeſties ab<g ref="char:EOLhyphen"/>ſenting him ſelf from his Parliament, &amp; none have taken deeper impresſion and threaten more dan<g ref="char:EOLhyphen"/>ger, then thoſe that having taken hold in the Noertherne parts.</p>
+            <p>Many have beene the Attempts of the Ma<g ref="char:EOLhyphen"/>lignant partie, to take and ſurpriſe <hi>HVLL,</hi> and by that meanes to ſtrengthen their one part, and
+<pb n="4" facs="tcp:112595:3"/>to worke out their owne ends and deſires. But ſtill the care and vigilancy of the Parliament which doth continually watch for the preſerva<g ref="char:EOLhyphen"/>tion of this Kingdome, hath oppoſed thoſe de<g ref="char:EOLhyphen"/>ſignes in their infancy, and betrayed them in their beginnings before they could attaine unto the end they aimed at. And it is moſt Remar<g ref="char:EOLhyphen"/>kable to obſerve theſe following particulars.</p>
+            <p>The Gentry and Freeholders of the County of Leiceſter having information, that the Kings Maieſty were reſolved to come in perſon to the ſayd County forthwith prepared all manner of proviſion, meete and neceſſary, for the enter<g ref="char:EOLhyphen"/>taining of ſuch a worthy and Pious Prince, And when his Maieſty was entertained in the Coun<g ref="char:EOLhyphen"/>ty of Leiceſter, he made with all posſible ſpeed rewards the Town and Bourrough of Leiceſter and coming thither the inhabitants of the ſayde Towne gave his Maieſtie entrance with ſome of his Troops and followers, where being reſi<g ref="char:EOLhyphen"/>dent certaine while he propoſed and propound<g ref="char:EOLhyphen"/>ed the follewing propoſitions to the gouernours of the ſea Towne.</p>
+            <p>That they would be pleaſed to let his Maieſty ſee the Magazine that were now within their Cuſtody.</p>
+            <p n="2">2 That they would be pleaſed to reſtore the Magazine into his ſacred and Royall Cuſtody it bring for no other then to defend his people from diſturbances.</p>
+         </div>
+         <div type="newsbook">
+            <pb n="5" facs="tcp:112595:3"/>
+            <head>NEWES FROM <hi>YORK</hi> AND <hi>BEVERLEY.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <hi>Coſen:</hi> My kind love, &amp;c.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to your deſire and my prom<g ref="char:EOLunhyphen"/>iſe, I ſhall acquaint you with ſuch Newes as hath happened with us ſince laſt I writ to you.</p>
+            <p>Then in briefe this.</p>
+            <p>On Friday laſt, Sir John Goodrick Knight and Baronet, which was one of the York-ſhire Knighs, that ſubſcribed to give the King 250 horſe and men, deing 30 in number, very bravely accoutred. Sir Francis Wortley, and the reſt, have engaged themſelves to bring in their on Friday next. This day a Troop of Horſe, under the command of Captaine Butler, marched from hence towards New-Caſtle (as it is report<g ref="char:EOLhyphen"/>ed) to g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd the Towne; and this day likewiſe two Regiments of Foot, of the Traine Bands of York ſhire, ſhew under the command of Colo Lunsford, the other under the command of Colo nell Fielding, marched towards Hull. Doctor Baſtwick, and three othe Captaines are taking priſoners by Mr. Haſtings and his Con<g ref="char:EOLhyphen"/>ſederates, and they are expected to be brought to York.</p>
+            <pb n="6" facs="tcp:112595:4"/>
+            <p> If they would but ſit down and recolect what dangers hang over them and vs, how ſharply they have bin entertain'd in their adventures they would I ſuppoſe take breath and Parle be<g ref="char:EOLhyphen"/>fore a ſecond onſet; they lately in tended for to invade the Town of Hul, &amp; having a friend of night to diſtowne Sr. John Hotham; which under maſke of darkeneſſe they did, intending may I ſay like Cowards which ſtrike winking or blindfold, but he found fortune as fauarable as the Parliament findes him faithfull for firſt he ſeeming as it were carleſſe Congeſted the Waters together and bridled them in which ſom freſh Water Souldiers being priuy to, Con<g ref="char:EOLhyphen"/>ducted by their ancient Captaine, Captaine ſancey began to inherit after the Flood, and hauing won the apportnuity oreſpred the earth; this Sr. John Hotham gaue leaue to Raude<g ref="char:EOLhyphen"/>uowz in his thoughts; who preſently felt theſe Flyes wagging in his Web; whereupon he ſaluteed theſe Brauadoes with a peece of ordi<g ref="char:EOLhyphen"/>nance welcome ſent about threeſcore ſoules to Pluto, ſhooke the roſt into an Ague Hard Fate.</p>
+            <p>Sr. John not only welcomd them but payd the ſhot, ſuch intertainment were they never like to rein<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oy: or the reſt to be taſters of unleſſe they come with a powder, thus thoſe daring Grim ſpirits have bincured of the deſeaſe of long life: for indeed they have bin engines of torment of
+<pb n="7" facs="tcp:112595:4"/>torment to the Country, and that Noblemau is crownd with glory; who remembers rather that he is a Subject then a Knight, whom the Honourable Houſes of Parliament, have as a gurdeon and med for his deſarts, willingly with on heart vented forth proteſtations for the ſecu<g ref="char:EOLhyphen"/>rity of his perſon as their owne, whoſe happi<g ref="char:EOLhyphen"/>neſſe conſiſts in theirs to maintaine which, hee is as ready as able to pur in force any thing by force, from force, the endeavors of incroaching adverſaries; wherefore anſwerable to their com<g ref="char:EOLhyphen"/>mand, to let in the water, hee hath opened the flood-gates, which meaſuring the out-fields, make cloathes of Chryſtal for the neighbouring plaines: which, that it may not be diſrob'd of its pure garment, to the ſubverſion of many. Let ſuch Merchant adventurers take heed to batter for goods, or thought-good to King, with life or limmes, leſt while they ſtrive for that little Hand in a forced ebbe, they bee ill willers to the King and Kingdoms eſtate, whoſe ruine is ſmirkt with the name of ſafety, and gain he Parliaments diſpleaſure to their own loſſe.</p>
+            <p>There was letters com from the Right Hounarable the Earle of Warwick to the high Court of PARLIAMENT intimating and deſiring that they would be Pleaſed to ſend ſom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Aminuition withall ſpeed for the Repaireng and maintaineng of his Nauie which Both Howſes teſobued to do with
+<pb n="8" facs="tcp:112595:5"/>ſpeed and likewiſe ordred that there ſhould be all kind of Aminuition ſent to the ſaid Earle acording to his deſires he alſo inform<g ref="char:EOLhyphen"/>ing the ſaid Howſes of his Proceedings at Sea and how that he had ſtaied and taking diuers Ships which were goeing to His Majeſty in the North and deſired theire pleaſuer therein and how that he had receuid inteligents that his Majeſty would haue him reſtore the mony into his Couſtoty and alſo the Parliament hauing taken into conſideration the Kings Maieſty demands concerning the na<g ref="char:EOLhyphen"/>uie Hull and the <hi>MILITIA,</hi> declared that it was not for the ſafty and ſecurity of the King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>The Lords and Commons doe declare, <hi rend="sup">t</hi>that a Garriſon of Souldiers is at New Caſtle Likewiſe Earl Rivers being put into the Com<g ref="char:EOLunhyphen"/>miſſion of Aray, exerciſes it with much rigour impriſoning all the that oppoſe him.</p>
+            <closer>
+               <signed>Iohn Brown Cler. Par</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
